@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/esma778787" width="120" align="right" />
+
 # 👋 Hi, I'm Esma Kula  
 
 🎓 **Computer Engineering Student | Full Stack & Embedded Systems Developer | Volunteer Leader**  
