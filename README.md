@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/esma778787" width="120" align="right" />
 
-<h1 style="border-bottom:none;">👋 Hi, I'm Esma Kula</h1>
+<h1 style="border-bottom:none;">👋 Hello, I'm Esma Kula</h1>
 
 🎓 <b>Computer Engineering Student | Full Stack & Embedded Systems Developer | Volunteer Leader</b>  
 📍 Kayseri, Türkiye | 💻 Passionate about technology, innovation, and empowering youth through projects  
